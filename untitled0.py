@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
-Original file is located at
-    https://colab.research.google.com/drive/1gn3Jz8WuUgj-Q4Zl0sLaRHFXQGe5N0IR
-"""
-
 #import packages
 import pandas as pd
 import numpy as np
